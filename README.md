@@ -2,9 +2,9 @@
 Desenvolvida com .NetCore
 
 # Pré-requisitos 
- .NetCore
+ ter o .NetCore instalado
 
-Documentação sobre os End Points 
+# Documentação
 https://documenter.getpostman.com/view/5918012/S17m1rnY
 
 # Inicializando a API.
