@@ -2,7 +2,7 @@
 Desenvolvida com .NetCore
 
 # Pré-requisitos 
-  .NetCore instalado na maquina.
+  .NetCore >= 2.1.502 instalado na maquina.
 
 # Documentação
 https://documenter.getpostman.com/view/5918012/S17m1rnY
