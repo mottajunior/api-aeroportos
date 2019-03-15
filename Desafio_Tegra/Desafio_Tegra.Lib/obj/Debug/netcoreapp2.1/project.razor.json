@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Desafio_Tegra\\Desafio_Tegra.Lib\\Desafio_Tegra.Lib.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
